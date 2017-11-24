@@ -1,0 +1,19 @@
+#demo{
+    position: fixed;
+    z-index: 99 !important;
+}
+#price{
+    position: fixed;
+    right: 0;
+    z-index: 99 !important;
+}
+#name{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 99 !important;
+}
+img{
+    width: 100%;
+    height: auto;
+}
